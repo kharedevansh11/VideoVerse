@@ -3,9 +3,10 @@
     "name": "aura",
     "slug": "aura",
     "version": "1.0.0",
+    "scheme": "aura",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
